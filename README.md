@@ -4,7 +4,7 @@
 ##구성
 ### 1. CSE3081_MP#.pdf : 과제 문제
 ### 2. .c & Makefile : code and makefile
-### 3. mp#_report_* : 결과보고서
+### 3. report : 결과보고서
 
 ## HW1 : Maximum Sum Subrectangle in a 2D Array
 ## HW2 : Master of Sorting
